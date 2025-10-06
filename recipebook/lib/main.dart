@@ -11,7 +11,7 @@ class RecipeApp extends StatelessWidget {
     return MaterialApp(
       title: 'Recipe Book',
       theme: ThemeData(
-        primarySwatch: Colors.green,
+        primarySwatch: Colors.deepOrange,
       ),
       home: HomeScreen(),
     );
