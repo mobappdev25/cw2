@@ -59,7 +59,7 @@ flutter:
   assets:
     - assets/hotteok.jpg 
     - assets/lemon.jpg 
-    - assets/piccata.webp
+    - assets/piccata.jpg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
